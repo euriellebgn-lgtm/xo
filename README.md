@@ -2,7 +2,7 @@
 Tic-Tac-Toe: Desktop GUI ApplicationA fully functional, interactive board game built with Python and the Tkinter framework.
 
 Tech StackLanguage: 
--Python 3.x
+-Python
 -Library: Tkinter (Python’s standard GUI toolkit)
 -Logic: Matrix-based win detection and state management
 
